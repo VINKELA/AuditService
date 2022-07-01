@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditService", "AuditService.csproj", "{420A5DD6-1794-4651-BB3C-4E9B56668915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditServiceTest", "..\AuditServiceTest\AuditServiceTest.csproj", "{055D8A63-3FB8-40A6-BC0F-61E1A50D72D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055D8A63-3FB8-40A6-BC0F-61E1A50D72D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055D8A63-3FB8-40A6-BC0F-61E1A50D72D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055D8A63-3FB8-40A6-BC0F-61E1A50D72D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055D8A63-3FB8-40A6-BC0F-61E1A50D72D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
