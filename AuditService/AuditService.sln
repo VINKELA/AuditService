@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditService", "AuditService.csproj", "{420A5DD6-1794-4651-BB3C-4E9B56668915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420A5DD6-1794-4651-BB3C-4E9B56668915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75ADFDC9-A8F0-4975-A8AC-CF6899C35857}
+	EndGlobalSection
+EndGlobal
